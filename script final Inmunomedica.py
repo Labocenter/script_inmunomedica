@@ -648,9 +648,9 @@ def main():
 ##            send_email("alonso.painevilo@labocenter.cl",'PRUEBA QA INFORMATICA',message,'')
 
             #PRODUCCION
-            send_email("soporte@secall.cl",'PRUEBA QA INFORMATICA',message,'')
-            send_email("andres.giraudo@inmunomedica.cl",'PRUEBA QA INFORMATICA',message,'')
-            send_email("barbajose@gmail.com",'PRUEBA QA INFORMATICA',message,'')
+            send_email("soporte@secall.cl",'PACIENTES CON OBSERVACIONES',message,'')
+            send_email("andres.giraudo@inmunomedica.cl",'PACIENTES CON OBSERVACIONES',message,'')
+            send_email("barbajose@gmail.com",'PACIENTES CON OBSERVACIONES',message,'')
 
             
 
